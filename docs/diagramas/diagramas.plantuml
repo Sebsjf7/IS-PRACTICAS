@@ -1,0 +1,6 @@
+@startuml diagrama
+
+class A 
+class B
+
+@enduml
